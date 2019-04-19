@@ -1,0 +1,23 @@
+_repo: In-Bird-Land_59264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keyser, Leander S. (Leander Sylvester)
+    alias: Keyser, L. S. (Leander Sylvester)
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '31703'
+    url: http://www.gutenberg.org/2009/agents/31703
+description: ''
+gutenberg_issued: '2019-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In Bird Land
+url: http://www.gutenberg.org/ebooks/59264
